@@ -1,0 +1,9 @@
+#container
+{
+border:1px solid black;
+height:200px;	
+width:400px;
+}
+div.ol-overlaycontainer-stopevent{
+	display:none !important;
+}
